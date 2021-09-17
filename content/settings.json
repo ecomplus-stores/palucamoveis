@@ -4,12 +4,12 @@
   "primary_color": "#ee863e",
   "theme": {
     "bootswatch": "_",
-    "custom": "clean-dark"
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/palucamoveis",
   "logo": "/img/uploads/logo_paluca.png",
-  "name": "Paluca Móveis: Móveis de escritório",
+  "name": "Paluca Móveis",
   "short_name": "Paluca Móveis",
   "lang": "pt_br",
   "currency": "BRL",
@@ -19,6 +19,6 @@
   "secondary_color": "#015d33",
   "icon": "/img/icon.png",
   "store_id": 9281,
-  "description": "Móveis de escritório com alto padrão de qualidade, aqui você encontra uma variedade de produtos: Cadeira de escritório e mesa de escritório.",
+  "description": "Móveis de escritório, cadeira de escritório entre outors produtos você encontra aqui! ",
   "large_icon": "/img/large-icon.png"
 }
