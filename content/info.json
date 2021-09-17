@@ -4,15 +4,15 @@
     "text": "Entregamos para todo o Brasil"
   },
   "installments": {
-    "show": false,
+    "show": true,
     "text": "Parcele sem juros"
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": ""
   },
   "promo": {
-    "show": false,
+    "show": true,
     "text": "Diferentes promoções ao longo do ano!"
   }
 }
