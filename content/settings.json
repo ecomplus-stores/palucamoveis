@@ -1,24 +1,24 @@
 {
-  "store_id": 9281,
-  "name": "palucamoveis",
   "domain": "palucamoveis.netlify.app",
-  "short_name": "palucamoveis",
-  "description": "palucamoveis",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#ee863e",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-dark"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/palucamoveis",
+  "logo": "/img/uploads/logo_paluca.png",
+  "name": "Paluca Móveis: Móveis de escritório",
+  "short_name": "Paluca Móveis",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/palucamoveis"
+  "secondary_color": "#015d33",
+  "icon": "/img/icon.png",
+  "store_id": 9281,
+  "description": "Móveis de escritório com alto padrão de qualidade, aqui você encontra uma variedade de produtos: Cadeira de escritório e mesa de escritório.",
+  "large_icon": "/img/large-icon.png"
 }
