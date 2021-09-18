@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "Compre online ou solicite um orçamento através de nossos canais de atendimento",
-    "link": "/contato",
+    "text": "",
+    "link": "",
     "color": "#ffffff",
     "background": "#000000"
   },
@@ -15,5 +15,5 @@
     "random": 6,
     "full_width": true
   },
-  "search_input": false
+  "search_input": true
 }
