@@ -23,6 +23,10 @@
       "page": 1,
       "headless": true,
       "sort": "news"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
