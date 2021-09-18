@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": "$(\"#bodyProduct .panel-collapse\").collapse(\"hide\");",
   "html_head": "",
   "html_body": ""
 }
