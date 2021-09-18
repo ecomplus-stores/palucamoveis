@@ -9,18 +9,13 @@
     "list": [
       {
         "text": "Paginas"
-      },
-      {}
+      }
     ]
   },
   "links_2": {
     "list_categories": true,
     "title": "Categorias",
-    "list": [
-      {
-        "text": ""
-      }
-    ]
+    "list": []
   },
   "contacts": {
     "title": "Contatos",
