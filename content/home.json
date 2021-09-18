@@ -7,9 +7,10 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-09-18T15:06:48.238Z",
-          "end": "2021-09-18T15:06:48.255Z",
+          "start": "2021-09-18T15:35:01.188Z",
+          "end": "2025-07-26T15:36:42.872Z",
           "img": "/img/uploads/moveis-de-escritorio.webp",
+          "mobile_img": "/img/uploads/moveis-de-escritorio-mobile.webp",
           "alt": "Móveis de escritório"
         }
       ]
