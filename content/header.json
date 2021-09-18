@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
     "text": "",
-    "link": ""
+    "link": "",
+    "color": "#ffffff",
+    "background": "#1c1c1c"
   },
   "contacts_stripe": {
     "pages": [],
