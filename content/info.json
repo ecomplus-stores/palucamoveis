@@ -1,6 +1,6 @@
 {
   "shipping": {
-    "show": false,
+    "show": true,
     "text": "Entregamos para todo o Brasil"
   },
   "installments": {
@@ -8,8 +8,8 @@
     "text": "Parcele sem juros"
   },
   "exchange": {
-    "show": false,
-    "text": ""
+    "show": true,
+    "text": "Trocas e devolução"
   },
   "promo": {
     "show": true,
