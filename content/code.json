@@ -1,5 +1,5 @@
 {
   "css": "$(\"#bodyProduct .panel-collapse\").collapse(\"hide\");",
   "html_head": "",
-  "html_body": ""
+  "html_body": "<a id=\"seloEbit\" href=\"http://www.ebit.com.br/109374\" target=\"_blank\" data-noop=\"redir(this.href);\"></a> <script type=\"text/javascript\" id=\"getSelo\" src=\"https://imgs.ebit.com.br/ebitBR/selo-ebit/js/getSelo.js?109374\"> </script>"
 }
