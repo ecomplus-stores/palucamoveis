@@ -11,9 +11,13 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/moveis-escritorio?Móveis",
+      "/cadeiras-escritorio?Cadeiras",
+      "/outlet?Outlet"
+    ],
     "random": 6,
     "full_width": false
   },
-  "search_input": false
+  "search_input": true
 }
