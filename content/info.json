@@ -5,7 +5,7 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcele sem juros em até 5x Sem Juros!"
   },
   "exchange": {
     "show": true,
@@ -13,6 +13,6 @@
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Todo mês Novas Produtos!"
   }
 }
