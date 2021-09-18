@@ -3,7 +3,7 @@
     "text": "Compre online ou solicite um orçamento através de nossos canais de atendimento",
     "link": "/contato",
     "color": "#ffffff",
-    "background": "#1c1c1c"
+    "background": "#000000"
   },
   "contacts_stripe": {
     "pages": [],
@@ -17,7 +17,7 @@
       "/outlet?Outlet"
     ],
     "random": 6,
-    "full_width": true
+    "full_width": false
   },
   "search_input": true
 }
