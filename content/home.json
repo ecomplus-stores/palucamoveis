@@ -27,11 +27,6 @@
       "page": 10,
       "headless": false,
       "sort": "news"
-    },
-    {
-      "type": "page-title",
-      "title": "Móveis de escritório",
-      "description": "Compre móveis de escritório com quem entende do assunto, atendimento personalizado com equipes treinadas."
     }
   ]
 }
