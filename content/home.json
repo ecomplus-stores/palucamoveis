@@ -24,14 +24,14 @@
       "shuffle": true,
       "collection_id": null,
       "limit": 12,
-      "page": 1,
+      "page": 10,
       "headless": false,
       "sort": "news"
     },
     {
       "type": "page-title",
-      "title": "",
-      "description": ""
+      "title": "Móveis de escritório",
+      "description": "Compre móveis de escritório com quem entende do assunto, atendimento personalizado com equipes treinadas."
     }
   ]
 }
