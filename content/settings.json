@@ -8,7 +8,7 @@
   },
   "bg_color": "#000000",
   "repository": "ecomplus-stores/palucamoveis",
-  "logo": "/img/uploads/logo_plus.webp",
+  "logo": "/img/uploads/moveis-de-escritorio.webp",
   "name": "Paluca Móveis",
   "short_name": "Paluca Móveis",
   "lang": "pt_br",
@@ -17,8 +17,8 @@
   "favicon": "/img/uploads/icon_paluca.png",
   "country_code": "BR",
   "secondary_color": "#000000",
-  "icon": "/img/uploads/logo_plus.png",
+  "icon": "/img/uploads/moveis-de-escritorio.webp",
   "store_id": 9281,
   "description": "Linha completa de móveis de escritório para montar seu ambiente.",
-  "large_icon": "/img/uploads/logo_plus.png"
+  "large_icon": "/img/uploads/moveis-de-escritorio.webp"
 }
