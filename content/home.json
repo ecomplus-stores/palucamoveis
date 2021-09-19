@@ -48,7 +48,9 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "collection_id": "6144f6ecbf447b5f0efe487e:categories:Cadeiras:/cadeiras-escritorio",
+      "sort": "views"
     }
   ]
 }
