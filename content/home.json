@@ -23,15 +23,18 @@
       "banners": [
         {
           "img": "/img/uploads/cadeiras-de-escritorio.png",
-          "alt": "cadeira-de-escritorio"
+          "alt": "cadeira-de-escritorio",
+          "mobile_img": "/img/uploads/cadeira_de-escritorio-mobile.webp"
         },
         {
           "img": "/img/uploads/mesa-de-escritorio.png",
-          "alt": "mesa-de-escritorio"
+          "alt": "mesa-de-escritorio",
+          "mobile_img": "/img/uploads/mesa_de-escritorio-mobile.webp"
         },
         {
           "img": "/img/uploads/mesa-de-refeitorio.png",
-          "alt": "mesa-de-refeitorio"
+          "alt": "mesa-de-refeitorio",
+          "mobile_img": "/img/uploads/mesa_de-escritorio-refeitorio-mobile.webp"
         }
       ]
     },
