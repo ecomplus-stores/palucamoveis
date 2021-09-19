@@ -6,7 +6,7 @@
     "bootswatch": "sandstone",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#000000",
   "repository": "ecomplus-stores/palucamoveis",
   "logo": "/img/uploads/logo_plus.webp",
   "name": "Paluca Móveis",
