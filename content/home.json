@@ -15,6 +15,10 @@
       ]
     },
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -30,10 +34,6 @@
           "alt": "mesa-de-refeitorio"
         }
       ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     },
     {
       "type": "collection-shelf",
