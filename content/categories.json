@@ -14,7 +14,7 @@
     },
     {
       "type": "document-description",
-      "enabled": true
+      "enabled": false
     }
   ]
 }
