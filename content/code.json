@@ -1,5 +1,5 @@
 {
   "css": "#main > div.ecom-credits{\n  display:none;\n}",
   "html_head": "",
-  "html_body": ""
+  "html_body": "var slider = $(\".page-slider\"); var html = slider.clone(); slider.remove(); $(\"body > .main\").prepend(html);"
 }
