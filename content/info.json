@@ -9,10 +9,10 @@
   },
   "exchange": {
     "show": true,
-    "text": "Trocas e devolução"
+    "text": "Troca e devolução"
   },
   "promo": {
     "show": true,
-    "text": "Todos Mêses Novos Produtos!"
+    "text": "Todo Mês Novos Produtos!"
   }
 }
