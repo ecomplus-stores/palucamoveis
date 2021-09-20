@@ -1,5 +1,5 @@
 {
   "css": "#main > div.ecom-credits{\n  display:none;\n}",
-  "html_head": "Content-Security-Policy: script-src 'self'",
+  "html_head": "",
   "html_body": ""
 }
