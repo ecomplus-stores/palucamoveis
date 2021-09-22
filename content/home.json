@@ -54,6 +54,11 @@
       "page": 1,
       "collection_id": "6144fc3bbf447b5f0efe53ce:brands:Plaxmetal:/plaxmetal",
       "sort": "views"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "views"
     }
   ]
 }
