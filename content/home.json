@@ -43,15 +43,15 @@
       "shuffle": true,
       "collection_id": "6144fc1fbf447b5f0efe539e:brands:Marzo Vitorino:/marzo-vitorino",
       "limit": 12,
-      "page": 1,
+      "page": 10,
       "headless": false,
       "sort": "lowest_price"
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
-      "page": 1,
+      "page": 10,
       "collection_id": "6144fc3bbf447b5f0efe53ce:brands:Plaxmetal:/plaxmetal",
       "sort": "views"
     },
