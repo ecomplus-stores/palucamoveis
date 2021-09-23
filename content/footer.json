@@ -24,11 +24,7 @@
     "email": true,
     "address": true
   },
-  "stamps": [
-    {
-      "src": "/img/uploads/sectigo-siteseal.png"
-    }
-  ],
+  "stamps": [],
   "payment_methods": {
     "bb": false,
     "visa": true,
