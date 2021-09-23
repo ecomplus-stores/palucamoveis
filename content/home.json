@@ -5,14 +5,7 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "slides": [
-        {
-          "start": "2021-09-22T18:34:20.526Z",
-          "end": "2024-12-28T18:34:20.561Z",
-          "img": "/img/uploads/moveis-de-escritorio.webp",
-          "mobile_img": "/img/uploads/moveis-de-escritorio-mobile.webp"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "info-bar",
