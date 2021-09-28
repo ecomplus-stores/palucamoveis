@@ -4,7 +4,7 @@
   "primary_color": "#ffffff",
   "theme": {
     "bootswatch": "flatly",
-    "custom": "clean-dark"
+    "custom": "niche-flowers"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/palucamoveis",
