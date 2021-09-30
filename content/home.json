@@ -64,36 +64,6 @@
       "limit": 12,
       "page": 1,
       "sort": "views"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/ambiente-start-01.jpg"
-        },
-        {
-          "img": "/img/uploads/ambiente-start-02.jpg"
-        },
-        {
-          "img": "/img/uploads/ambiente-start-03.jpg",
-          "mobile_img": ""
-        },
-        {
-          "img": "/img/uploads/ambiente-start-04.jpg"
-        },
-        {
-          "img": "/img/uploads/ambiente-start-05.jpg"
-        },
-        {
-          "img": "/img/uploads/ambiente-start-06.jpg"
-        },
-        {
-          "img": "/img/uploads/ambiente-start-07.jpg"
-        },
-        {
-          "img": "/img/uploads/ambiente-start-08.jpg"
-        }
-      ]
     }
   ]
 }
