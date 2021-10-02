@@ -7,10 +7,11 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-09-24T18:24:06.021Z",
-          "end": "2023-04-15T18:24:06.048Z",
+          "start": "2021-10-02T13:19:35.110Z",
+          "end": "2027-03-05T13:19:35.138Z",
           "img": "/img/uploads/moveis-de-escritorio.webp",
-          "mobile_img": "/img/uploads/moveis-escritorio.webp"
+          "mobile_img": "/img/uploads/moveis-escritorio.webp",
+          "alt": "moveis-de-escritorio"
         }
       ]
     },
