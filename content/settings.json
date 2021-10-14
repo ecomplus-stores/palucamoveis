@@ -1,7 +1,7 @@
 {
   "domain": "palucamoveis.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#000000",
+  "primary_color": "#d70f0f",
   "theme": {
     "bootswatch": "cosmo",
     "custom": "_"
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/icon.png",
   "country_code": "BR",
-  "secondary_color": "#000000",
+  "secondary_color": "#ed853f",
   "icon": "/img/uploads/logo-moveis.webp",
   "store_id": 9281,
   "description": "Linha completa de móveis de escritório para montar seu ambiente.",
