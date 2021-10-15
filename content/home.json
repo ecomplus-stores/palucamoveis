@@ -67,16 +67,8 @@
           "alt": "cadeira-treinamento"
         },
         {
-          "img": "/img/uploads/estacao-de-trabalho.webp",
-          "alt": "estacao-de-trabalho"
-        },
-        {
-          "img": "/img/uploads/guarda-volume.png",
+          "img": "/img/uploads/guarda-volume.webp",
           "alt": "guarda-volume"
-        },
-        {
-          "img": "/img/uploads/mesa-diretor.webp",
-          "alt": "mesa-diretor"
         }
       ]
     },
