@@ -1,3 +1,15 @@
 {
-  "sections": []
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true
+    }
+  ]
 }
