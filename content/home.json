@@ -52,27 +52,6 @@
       "sort": "lowest_price"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/cadeira-de-escritorio-audi.webp",
-          "alt": "cadeira-audi"
-        },
-        {
-          "img": "/img/uploads/cadeira-giratoria-premio.webp",
-          "alt": "cadeira-giratoria-premio"
-        },
-        {
-          "img": "/img/uploads/cadeira-treinamento.webp",
-          "alt": "cadeira-treinamento"
-        },
-        {
-          "img": "/img/uploads/guarda-volume.webp",
-          "alt": "guarda-volume"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
