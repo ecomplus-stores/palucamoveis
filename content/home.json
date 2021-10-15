@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 0,
+      "autoplay": 9000,
       "slides": [
         {
           "start": "2021-10-02T13:19:35.110Z",
@@ -12,6 +12,13 @@
           "img": "/img/uploads/moveis-de-escritorio-rj.webp",
           "mobile_img": "/img/uploads/moveis-escritorio.webp",
           "alt": "moveis-de-escritorio"
+        },
+        {
+          "start": "2021-10-15T03:02:28.795Z",
+          "end": "2024-09-06T03:02:28.830Z",
+          "img": "/img/uploads/moveis-de-escritorio-completo-com-alto-padrao-de-qualidade.webp",
+          "alt": "moveis corporativo",
+          "mobile_img": "/img/uploads/moveis-corporativo.webp"
         }
       ]
     },
