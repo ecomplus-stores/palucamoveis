@@ -91,6 +91,10 @@
         {
           "img": "/img/uploads/estacao-de-trabalho.webp",
           "alt": "estacao-de-trabalho"
+        },
+        {
+          "img": "/img/uploads/guarda-volume.png",
+          "alt": "guarda-volume"
         }
       ]
     }
