@@ -65,6 +65,13 @@
       "limit": 12,
       "page": 1,
       "sort": "views"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 6,
+      "offset": 0,
+      "sort": "name",
+      "autoplay": 7000
     }
   ]
 }
