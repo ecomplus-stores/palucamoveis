@@ -92,7 +92,7 @@
       "limit": 6,
       "offset": 0,
       "sort": "name",
-      "autoplay": 7000
+      "autoplay": 0
     }
   ]
 }
