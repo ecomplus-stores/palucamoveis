@@ -72,6 +72,15 @@
       "offset": 0,
       "sort": "name",
       "autoplay": 7000
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/cadeira-de-escritorio-audi.webp",
+          "alt": "cadeira-audi"
+        }
+      ]
     }
   ]
 }
