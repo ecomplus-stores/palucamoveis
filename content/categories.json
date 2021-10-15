@@ -19,10 +19,6 @@
     {
       "type": "document-description",
       "enabled": true
-    },
-    {
-      "type": "document-description",
-      "enabled": false
     }
   ]
 }
