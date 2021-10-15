@@ -1,7 +1,7 @@
 {
   "domain": "palucamoveis.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#ed853f",
+  "primary_color": "#006400",
   "theme": {
     "bootswatch": "cerulean",
     "custom": "_"
