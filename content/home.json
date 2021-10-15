@@ -87,6 +87,10 @@
         {
           "img": "/img/uploads/cadeira-treinamento.webp",
           "alt": "cadeira-treinamento"
+        },
+        {
+          "img": "/img/uploads/estacao-de-trabalho.webp",
+          "alt": "estacao-de-trabalho"
         }
       ]
     }
