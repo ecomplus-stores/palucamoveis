@@ -52,28 +52,6 @@
       "sort": "lowest_price"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6144fc3bbf447b5f0efe53ce:brands:Plaxmetal:/plaxmetal",
-      "sort": "views"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "sort": "views"
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 6,
-      "offset": 0,
-      "sort": "name",
-      "autoplay": 7000
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -101,6 +79,28 @@
           "alt": "mesa-diretor"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6144fc3bbf447b5f0efe53ce:brands:Plaxmetal:/plaxmetal",
+      "sort": "views"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "sort": "views"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 6,
+      "offset": 0,
+      "sort": "name",
+      "autoplay": 7000
     }
   ]
 }
