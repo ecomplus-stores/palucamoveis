@@ -25,19 +25,19 @@
         {
           "img": "/img/uploads/cadeira_de-escritorio-mobile.webp",
           "alt": "cadeira-de-escritorio",
-          "mobile_img": "",
+          "mobile_img": "/img/uploads/cadeira_de-escritorio-mobile.webp",
           "link": "https://www.palucamoveis.com.br/cadeiras-escritorio"
         },
         {
           "img": "/img/uploads/mesa_refeitorio.webp",
           "alt": "mesa-de-refeitorio",
-          "mobile_img": "",
+          "mobile_img": "/img/uploads/mesa_refeitorio.webp",
           "link": "https://www.palucamoveis.com.br/mesa-refeitorio"
         },
         {
           "img": "/img/uploads/mesa_de-escritorio-mobile.webp",
           "alt": "mesa-de-escritorio",
-          "mobile_img": "",
+          "mobile_img": "/img/uploads/mesa_de-escritorio-mobile.webp",
           "link": "https://www.palucamoveis.com.br/mesa-escritorio"
         }
       ]
