@@ -45,11 +45,11 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "6144fc1fbf447b5f0efe539e:brands:Marzo Vitorino:/marzo-vitorino",
+      "collection_id": null,
       "limit": 12,
       "page": 1,
       "headless": false,
-      "sort": "lowest_price"
+      "sort": "views"
     },
     {
       "type": "collection-shelf",
