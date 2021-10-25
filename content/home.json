@@ -23,9 +23,9 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/cadeira_de-escritorio-mobile.webp",
+          "img": "/img/uploads/cadeira-de-escritorio.webp",
           "alt": "cadeira-de-escritorio",
-          "mobile_img": "",
+          "mobile_img": "/img/uploads/cadeira-escritorio.webp",
           "link": "https://www.palucamoveis.com.br/cadeiras-escritorio"
         },
         {
