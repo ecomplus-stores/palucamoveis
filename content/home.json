@@ -55,7 +55,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 2,
+      "limit": 5,
       "page": "",
       "collection_id": "6144fc3bbf447b5f0efe53ce:brands:Plaxmetal:/plaxmetal",
       "sort": "views",
@@ -64,7 +64,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 2,
+      "limit": 5,
       "page": "",
       "sort": "views",
       "title": "Mais Vendidos"
@@ -72,7 +72,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 4,
+      "limit": 5,
       "page": "",
       "collection_id": "6144f974bf447b5f0efe4e5f:categories:Outlet:/outlet-moveis-escritorio",
       "sort": "views",
