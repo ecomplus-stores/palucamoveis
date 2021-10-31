@@ -3,16 +3,11 @@
   "meta_description": "Móveis de escritório com alto padrão de qualidade, encontre tudo em móveis de escritório para seu ambiente, compre online ou solicite um orçamento!",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/moveis-de-escritorio.webp",
-      "mobile_img": "/img/uploads/cadeira-de-escritorio.webp"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 0,
       "slides": [
         {
-          "start": "2021-11-01T03:02:28.795Z",
+          "start": "2021-10-31T21:50:21.181Z",
           "end": "2024-09-06T03:02:28.830Z",
           "img": "/img/uploads/moveis-de-escritorio.webp",
           "alt": "moveis-de-escritorio",
