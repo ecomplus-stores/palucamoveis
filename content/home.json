@@ -46,8 +46,8 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "616326a528ace502ae9e20e5:brands:GEBB WORK:/gebb-work",
-      "limit": 4,
-      "page": 2,
+      "limit": 1,
+      "page": "",
       "headless": false,
       "sort": "views",
       "title": "Móveis de Escritório"
@@ -55,8 +55,8 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 4,
-      "page": 2,
+      "limit": "",
+      "page": "",
       "collection_id": "6144fc3bbf447b5f0efe53ce:brands:Plaxmetal:/plaxmetal",
       "sort": "views",
       "title": "Cadeiras de Escritório"
@@ -64,16 +64,16 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 4,
-      "page": 2,
+      "limit": "",
+      "page": 1,
       "sort": "views",
       "title": "Mais Vendidos"
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 4,
-      "page": 2,
+      "limit": "",
+      "page": 1,
       "collection_id": "6144f974bf447b5f0efe4e5f:categories:Outlet:/outlet",
       "sort": "views"
     }
