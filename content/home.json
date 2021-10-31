@@ -64,7 +64,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 3,
+      "limit": 4,
       "page": 2,
       "sort": "views",
       "title": "Mais Vendidos"
