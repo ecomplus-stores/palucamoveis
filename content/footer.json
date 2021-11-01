@@ -24,12 +24,7 @@
     "email": true,
     "address": true
   },
-  "stamps": [
-    {
-      "src": null,
-      "alt": ""
-    }
-  ],
+  "stamps": [],
   "payment_methods": {
     "bb": false,
     "visa": true,
