@@ -5,7 +5,7 @@
   "options": {
     "buyText": "",
     "buy": "",
-    "lowQuantityToWarn": 5,
+    "lowQuantityToWarn": 30,
     "maxVariationOptionsBtns": 10
   }
 }
