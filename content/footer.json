@@ -24,25 +24,30 @@
     "email": true,
     "address": true
   },
-  "stamps": [],
+  "stamps": [
+    {
+      "src": null,
+      "alt": ""
+    }
+  ],
   "payment_methods": {
     "bb": false,
-    "visa": true,
-    "boleto": true,
+    "visa": false,
+    "boleto": false,
     "aura": false,
     "banrisul": false,
-    "elo": true,
-    "hipercard": true,
+    "elo": false,
+    "hipercard": false,
     "hsbc": false,
     "bradesco": false,
     "santander": false,
-    "mastercard": true,
-    "paypal": true,
+    "mastercard": false,
+    "paypal": false,
     "citibank": false,
-    "hiper": true,
+    "hiper": false,
     "mais": false,
-    "amex": true,
+    "amex": false,
     "itau": false
   },
-  "credits": ""
+  "credits": "<a href=\"#\" onclick=\"window.open('https://www.sitelock.com/verify.php?site=palucamoveis.com.br','SiteLock','width=600,height=600,left=160,top=170');\" ><img class=\"img-responsive\" alt=\"SiteLock\" title=\"SiteLock\" src=\"//shield.sitelock.com/shield/palucamoveis.com.br\" /></a>"
 }
