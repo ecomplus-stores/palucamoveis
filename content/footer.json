@@ -25,10 +25,7 @@
     "address": true
   },
   "stamps": [
-    {
-      "src": "/img/uploads/certificado-sll.webp",
-      "alt": "site-seguro"
-    }
+    {}
   ],
   "payment_methods": {
     "bb": false,
