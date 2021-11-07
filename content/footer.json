@@ -28,6 +28,9 @@
     {
       "src": "/img/uploads/certificado-sll.webp",
       "alt": "site-seguro"
+    },
+    {
+      "src": "/img/uploads/site-look.webp"
     }
   ],
   "payment_methods": {
