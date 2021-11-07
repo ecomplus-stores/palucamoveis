@@ -30,7 +30,8 @@
       "alt": "site-seguro"
     },
     {
-      "src": "/img/uploads/site-look.webp"
+      "src": "/img/uploads/site-look.webp",
+      "alt": "site-blindado"
     },
     {
       "src": "/img/uploads/cloudflare.webp",
