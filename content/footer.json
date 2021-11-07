@@ -31,6 +31,10 @@
     },
     {
       "src": "/img/uploads/site-look.webp"
+    },
+    {
+      "src": "/img/uploads/cloudflare.webp",
+      "alt": "cloudflare"
     }
   ],
   "payment_methods": {
