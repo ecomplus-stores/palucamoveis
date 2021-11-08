@@ -20,29 +20,6 @@
       "enabled": true
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/cadeira-de-escritorio.webp",
-          "alt": "cadeira-de-escritorio",
-          "mobile_img": "/img/uploads/cadeira-escritorio.webp",
-          "link": ""
-        },
-        {
-          "img": "/img/uploads/mesa-de-refeitorio.webp",
-          "alt": "mesa-de-refeitorio",
-          "mobile_img": "/img/uploads/mesa-refeitorio.webp",
-          "link": ""
-        },
-        {
-          "img": "/img/uploads/mesa-de-escritorio.webp",
-          "alt": "mesa-de-escritorio",
-          "mobile_img": "/img/uploads/mesa-de-escritorio.webp",
-          "link": ""
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "616326a528ace502ae9e20e5:brands:GEBB WORK:/gebb-work",
