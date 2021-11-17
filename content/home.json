@@ -16,14 +16,15 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "616326a528ace502ae9e20e5:brands:GEBB WORK:/gebb-work",
-      "limit": 24,
       "page": "",
+      "title": "Móveis de Escritório",
+      "shuffle": true,
       "headless": false,
-      "sort": "views",
-      "title": "Móveis de Escritório"
+      "type": "collection-shelf",
+      "link": "https://palucamoveis.com.br/moveis-escritorio",
+      "limit": 24,
+      "collection_id": "616326a528ace502ae9e20e5:brands:GEBB WORK:/gebb-work",
+      "sort": "views"
     },
     {
       "type": "collection-shelf",
@@ -32,7 +33,8 @@
       "page": "",
       "collection_id": "6144fc3bbf447b5f0efe53ce:brands:Plaxmetal:/plaxmetal",
       "sort": "views",
-      "title": "Cadeiras de Escritório"
+      "title": "Cadeiras de Escritório",
+      "link": "https://palucamoveis.com.br/cadeiras-de-escritorio"
     },
     {
       "type": "collection-shelf",
@@ -49,12 +51,23 @@
       "page": "",
       "collection_id": "6144f974bf447b5f0efe4e5f:categories:Outlet:/outlet-moveis-escritorio",
       "sort": "views",
-      "title": "Queima de Estoque"
+      "title": "Queima de Estoque",
+      "link": "https://palucamoveis.com.br/outlet"
     },
     {
       "type": "page-title",
       "title": "Mesas de escritório, cadeiras de escritório, móveis de escritório com até 5 anos de garantia",
       "description": ""
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6144f5fcbf447b5f0efe463c:categories:Refeitório:/mesa-refeitorio",
+      "sort": "views",
+      "title": "Mesa de Refeitório",
+      "link": "https://palucamoveis.com.br/mesa-refeitorio"
     },
     {
       "type": "info-bar",
