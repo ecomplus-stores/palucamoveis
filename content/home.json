@@ -55,11 +55,6 @@
       "link": "https://palucamoveis.com.br/outlet"
     },
     {
-      "type": "page-title",
-      "title": "Mesas de escritório, cadeiras de escritório, móveis de escritório com até 5 anos de garantia",
-      "description": ""
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
@@ -68,6 +63,11 @@
       "sort": "views",
       "title": "Mesa de Refeitório",
       "link": "https://palucamoveis.com.br/mesa-refeitorio"
+    },
+    {
+      "type": "page-title",
+      "title": "Mesas de escritório, cadeiras de escritório, móveis de escritório com até 5 anos de garantia",
+      "description": ""
     }
   ]
 }
