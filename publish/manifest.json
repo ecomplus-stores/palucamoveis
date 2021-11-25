@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.66ab3ff0888ec1016a97df47b2b9bec0.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.518d1de8dea077fc5cf87a8772dee2bd.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.0564b50ba90070a73a41c4dfc5d1950c.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.afd4ea7ce963486c1e19d2b574465efc.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.ab36a150c47fb114f5e5dde6a95458e7.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Paluca Móveis",
+  "short_name": "Paluca Móveis: Móveis de escritório - Escritório completo",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Móveis de escritório com alto padrão de qualidade, encontre tudo em móveis de escritório para seu ambiente, compre online ou solicite um orçamento!\n",
+  "background_color": "#ffffff",
+  "theme_color": "#ed853f"
+}
